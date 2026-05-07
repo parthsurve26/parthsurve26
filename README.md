@@ -20,7 +20,7 @@ Collaborative project involving a Gradio-based chatbot with Docker/Linux deploym
 
 ## Skills
 
-**Languages:** Python, SQL, R, Java, C++, HTML/CSS  
+**Languages:** Python, SQL, R, Java, HTML/CSS  
 **ML/Data:** PyTorch, scikit-learn, pandas, NumPy, Hugging Face Transformers  
 **Tools:** Docker, Linux, Git, BigQuery, Power BI, Tableau, Prometheus, Grafana  
 
