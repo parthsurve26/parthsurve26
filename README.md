@@ -1,4 +1,4 @@
-# Hi, I'm Parth Surve 👋
+# Hi, I'm Parth
 
 MS Data Science student at Worcester Polytechnic Institute, based in Worcester, MA.  
 I’m interested in machine learning, data science, MLOps, analytics, and building practical data-driven systems.
