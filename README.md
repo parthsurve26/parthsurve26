@@ -7,9 +7,13 @@ I work on machine learning,Deep Learning and NLP with a focus on building AI sys
 ## Skills
 
 **Languages:** Python, SQL, R, Java, HTML/CSS
+
 **ML/Data:** PyTorch, scikit-learn, pandas, NumPy, Hugging Face Transformers
+
 **MLOps & Infra:** Docker, Linux, Git, Prometheus, Grafana
+
 **Analytics & BI:** BigQuery, Power BI, Tableau
+
 **Platforms:** Salesforce, Flow Builder, Einstein
 
 ## Contact
