@@ -12,7 +12,7 @@ Python, SQL, R, Java, HTML/CSS
 PyTorch, scikit-learn, pandas, NumPy, Hugging Face Transformers
 
 **MLOps & Infra:**
-Docker, Linux, Git, Prometheus, Grafana
+AWS, GCP, Docker, Linux, Git, Prometheus, Grafana
 
 **Analytics & BI:**
 BigQuery, Power BI, Tableau
