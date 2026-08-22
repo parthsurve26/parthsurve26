@@ -6,7 +6,7 @@ I work on machine learning,Deep Learning and NLP with a focus on building AI sys
 ## Skills
 
 **Languages:**
-Python, SQL, R, Java, HTML/CSS
+Python, SQL, R, Java, HTML/CSS, Type Script
 
 **ML/Data:**
 PyTorch, scikit-learn, pandas, NumPy, Hugging Face Transformers
